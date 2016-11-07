@@ -1,3 +1,7 @@
+document.onscroll= function () {
+    var Ifscroll=document.querySelector('#ifscroll');
+    Ifscroll.style.display='none';
+}
 var start;
 function rotate(object, degrees) {
     object.css({
