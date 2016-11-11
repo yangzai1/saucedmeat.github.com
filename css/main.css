@@ -1,5 +1,55 @@
-html,body{
-    margin:0;
+html, body {
+}
+
+h1 {
+    height: 100px;
+}
+
+h1 span {
+    position: relative;
+    top: 30px;
+    display: inline-block;
+    animation: bounce .6s ease infinite alternate;
+    font-family: 'Titan One', cursive;
+    font-size: 80px;
+    color: #ffd900;
+    text-shadow: 0 1px 0 gold,
+    0 2px 0 gold,
+    0 3px 0 gold,
+    0 4px 0 gold,
+    0 5px 0 gold,
+    0 6px 0 transparent,
+    0 7px 0 transparent,
+    0 8px 0 transparent,
+    0 9px 0 transparent,
+    0 10px 10px rgba(0, 0, 0, .4);
+    margin-right:-80px;
+}
+
+h1 span:nth-child(2) { animation-delay: .2s; }
+h1 span:nth-child(3) { animation-delay: .3s; }
+h1 span:nth-child(4) { animation-delay: .4s; }
+h1 span:nth-child(5) { animation-delay: .5s; }
+h1 span:nth-child(6) { animation-delay: .6s; }
+h1 span:nth-child(7) { animation-delay: .7s; }
+h1 span:nth-child(8) { animation-delay: .8s; }
+h1 span:nth-child(9) { animation-delay: .9s; }
+h1 span:nth-child(10) { animation-delay: 1s; }
+
+@keyframes bounce {
+    100% {
+        top: -20px;
+        text-shadow: 0 1px 0 #ffa666,
+        0 2px 0 #ffa666,
+        0 3px 0 #ffa666,
+        0 4px 0 #ffa666,
+        0 5px 0 #ffa666,
+        0 6px 0 #ffa666,
+        0 7px 0 #ffa666,
+        0 8px 0 #ffa666,
+        0 9px 0 #ffa666,
+        0 50px 25px rgba(0, 0, 0, .2);
+    }
 }
 @font-face {
     font-family: "LCD";
@@ -410,7 +460,7 @@ body .fn-hide {
 }
 #preScene .startTitle{
     position:absolute;
-    top:35%;
+    top:0%;
     width:550px;
     text-align: center;
     left:50%;

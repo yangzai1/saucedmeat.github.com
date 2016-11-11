@@ -49,7 +49,7 @@ var sceneshow = [
 
 var emailshow = function() {
     $("#preScene .startTitle,#endpreScene .startTitle").animate({
-        top: "30%"
+        top: "0"
     }, function() {
         $('#preScene .email,#endpreScene .email').fadeIn(500)
         $('#preScene .tops,#endpreScene .tops').animate({
