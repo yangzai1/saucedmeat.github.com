@@ -195,7 +195,7 @@ nav #close{
     color: #ffffff;
 }
 .list #con .item{
-    overflow: auto;
+    overflow-y:scroll;
     margin:1.5rem 0;
     width: 100%;
 }
