@@ -1,0 +1,21 @@
+.show{
+    width: 18.75rem;
+    height:30.15rem;
+    background: url("../images/CNY_0118.jpg") no-repeat;
+    -webkit-background-size:100%;
+    background-size:100%;
+    position: relative;
+}
+.goods1,.goods2{
+    position: absolute;
+    width: 6.625rem;
+    height:2rem;
+}
+.goods1{
+    top: 15.175rem;;
+    left: 1.45rem;
+}
+.goods2{
+    bottom:2.375rem;
+    right:2.9rem ;
+}
