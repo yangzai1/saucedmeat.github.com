@@ -32,6 +32,7 @@ b,strong{
 }
 img{
 	display: block;
+	vertical-align: top;
 }
 .fl{
 	float: left;
@@ -51,7 +52,6 @@ img{
 input,textarea{
 	outline: none;
 }
-/*解决图片bug img{vertical-align: top;}*/
 table{
 	border-collapse: collapse;
 }
