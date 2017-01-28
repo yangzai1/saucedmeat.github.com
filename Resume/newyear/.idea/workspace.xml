@@ -21,9 +21,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-936">
-              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="2484">
+              <caret line="70" column="147" lean-forward="false" selection-start-line="70" selection-start-column="147" selection-end-line="70" selection-end-column="147" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +33,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3694">
-              <caret line="3985" column="25" lean-forward="false" selection-start-line="3985" selection-start-column="25" selection-end-line="3985" selection-end-column="25" />
+            <state relative-caret-position="2048">
+              <caret line="4007" column="8" lean-forward="false" selection-start-line="4007" selection-start-column="8" selection-end-line="4007" selection-end-column="8" />
               <folding>
                 <element signature="e#5721#5979#2" expanded="true" />
                 <element signature="e#6143#6401#2" expanded="true" />
@@ -252,12 +254,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485495853447</updated>
       <workItem from="1485495860356" duration="1467000" />
-      <workItem from="1485606453630" duration="4365000" />
+      <workItem from="1485606453630" duration="6440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5832000" />
+    <option name="totallyTimeSpent" value="7907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1279" height="727" extended-state="1" />
@@ -296,7 +298,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1944">
           <caret line="72" column="12" lean-forward="false" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -350,6 +354,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -358,10 +370,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/ctb3.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3694">
-          <caret line="3985" column="25" lean-forward="false" selection-start-line="3985" selection-start-column="25" selection-end-line="3985" selection-end-column="25" />
+        <state relative-caret-position="2048">
+          <caret line="4007" column="8" lean-forward="false" selection-start-line="4007" selection-start-column="8" selection-end-line="4007" selection-end-column="8" />
           <folding>
             <element signature="e#5721#5979#2" expanded="true" />
             <element signature="e#6143#6401#2" expanded="true" />
@@ -375,19 +392,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="2484">
+          <caret line="70" column="147" lean-forward="false" selection-start-line="70" selection-start-column="147" selection-end-line="70" selection-end-column="147" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
