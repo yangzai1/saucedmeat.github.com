@@ -43,10 +43,14 @@
     <i class="icon-note"></i>
 </button>
 
-<audio loop autoplay>
+<audio id="music" loop autoplay>
     <source src="background.mp3" type="audio/mpeg">
 </audio>
-
+<script>
+    var Media = document.getElementById("music");
+    Media.src = "background.mp3";
+    Media.play();
+</script>
 <!-- Don't delete this. It's needed for development workflow. -->
 <script src="js/main.js"></script>
 
