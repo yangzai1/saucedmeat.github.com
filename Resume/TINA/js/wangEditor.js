@@ -25,7 +25,6 @@
 
     // 验证是否引用jquery
     if (!$ || !$.fn || !$.fn.jquery) {
-        alert('在引用wangEditor.js之前，先引用jQuery，否则无法使用 wangEditor');
         return;
     }
 
@@ -41,7 +40,6 @@
 (function (window, $) {
     if (window.wangEditor) {
         // 重复引用
-        alert('一个页面不能重复引用 wangEditor.js 或 wangEditor.min.js ！！！');
         return;
     }
 
